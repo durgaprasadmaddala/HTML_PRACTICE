@@ -1,1 +1,3 @@
 # HTML_PRACTICE
+
+HTML (HyperText Markup Language) is the standard code used to describe and structure the content and meaning of web pages.What is an HTML Description?General definition: HTML uses tags (like <p> for paragraphs or <h1> for headings) to describe different parts of a webpage so a browser knows how to display them.Description Lists (<dl>): HTML has a specific element called a description list, detailed in the MDN Web Docs on <dl>, which pairs a term (<dt>) with its description (<dd>) like a glossary.Meta Descriptions: A meta tag placed in the document head (as explained by W3Schools on HTML Meta Tags) can provide a hidden summary description of the page for search engines.
